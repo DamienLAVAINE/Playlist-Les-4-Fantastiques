@@ -1,10 +1,9 @@
 const tracks = [
-  { name: "Ma Benz/Brigitte", file: "audio/Ma Benz 31.10.mp3", duration: "4:35" },
-  { name: "Hollywood/The Cranberries", file: "audio/Hollywood 31.10.mp3", duration: "6:16" },
-  { name: "No more/AVB", file: "audio/AVB - No more 31.10.mp3", duration: "3:44" },
-  { name: "ALED/AVB", file: "audio/AvB - ALED 31.10.mp3", duration: "4:24" },
-  { name: "Echo/AVB", file: "audio/AvB - Echo 31.10.mp3", duration: "4:20" },
-  { name: "Dimanche/AVB", file: "audio/AvB - Dimanche 31.10.mp3", duration: "3:55" },
+  { name: "Avant-Après", file: "audio/X - Avant après 3.5.mp3", duration: "3:45" },
+  { name: "Mito", file: "audio/Mito test  v2.4.jesaisplustellementyena.mp3", duration: "4:13" },
+  { name: "QG", file: "audio/QG V9.x1.mp3", duration: "4:32" },
+  { name: "Setpiste", file: "audio/setpiste 02.11.mp3", duration: "3:54" },
+
 
 
 
