@@ -3,7 +3,7 @@ const tracks = [
   { name: "Mito", file: "audio/Mito test  v2.4.jesaisplustellementyena.mp3", duration: "4:13" },
   { name: "QG", file: "audio/QG V9.x1.mp3", duration: "4:32" },
   { name: "Setpiste", file: "audio/setpiste 02.11.mp3", duration: "3:54" },
-
+  { name: "Flamand rose", file: "audio/Flamand rose v2.3.mp3", duration: "3:16" },
 
 
 
