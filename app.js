@@ -6,6 +6,7 @@ const tracks = [
   { name: "Cause toujours", file: "audio/cause toujours v11.mp3", duration: "3:46" },
   { name: "Flamand rose", file: "audio/Flamand rose v2.3.mp3", duration: "3:16" },
   { name: "GRS", file: "audio/GRS -98 v2.4.mp3", duration: "3:55" },
+  { name: "C'est comme ça", file: "audio/Les Rita - C'est comme ça.mp3", duration: "4:54" },
   { name: "Metallica - Nothing else matters", file: "audio/Metallica - Nothing v3.mp3", duration: "4:46" },
 
 
