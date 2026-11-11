@@ -1,6 +1,6 @@
 const tracks = [
   { name: "Avant-Après", file: "audio/Avant après 3.6.mp3", duration: "4:08" },
-  { name: "Mito", file: "audio/Mito test  v2.4.jesaisplustellementyena.mp3", duration: "4:13" },
+  { name: "Mito", file: "audio/Mito v2.5.mp3", duration: "4:13" },
   { name: "QG", file: "audio/QG V9.x1.mp3", duration: "4:32" },
   { name: "GRS", file: "audio/GRS -98 v2.4.mp3", duration: "3:55" },
   { name: "Setpiste", file: "audio/setpiste 02.11.mp3", duration: "3:54" },
