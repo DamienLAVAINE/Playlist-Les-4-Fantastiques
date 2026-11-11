@@ -2,7 +2,7 @@ const tracks = [
   { name: "Avant-Après", file: "audio/Avant après 3.6.mp3", duration: "4:08" },
   { name: "Mito", file: "audio/Mito v2.5.mp3", duration: "4:13" },
   { name: "QG", file: "audio/QG V12.mp3", duration: "4:32" },
-  { name: "GRS", file: "audio/GRS -98 v2.4.mp3", duration: "3:55" },
+  { name: "GRS", file: "audio/GRS V2.3.mp3", duration: "2:55" },
   { name: "Setpiste", file: "audio/setpiste 02.11.mp3", duration: "3:54" },
   { name: "Cause toujours", file: "audio/cause toujours v11.mp3", duration: "3:46" },
   { name: "Flamand rose", file: "audio/Flamand rose v2.3.mp3", duration: "3:16" },
